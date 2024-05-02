@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/admin/CustomerManagementServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/admin/orderManagement.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/shared%20files/Header.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/shared%20files/Footer.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/admin/adminLogin.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/admin/adminDashboard.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/index.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/admin/productManagement.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/customer/orderHistory.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/customer/customerLogin.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/admin/ProductManagementServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/admin/AdminLogoutServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/database/OrderDAO.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/admin/AdminDashboardServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/customer/cart.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/customer/OrderHistoryServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/customer/ProductDisplayServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/customer/CartServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/customer/OrderServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/customer/DatabaseUtil.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/admin/customerManagement.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/customer/order.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/models/Customer.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/admin/viewCustomers.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/models/Product.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/database/DBConnectionManager.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/admin/OrderManagementServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/customer/productDisplay.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/shared%20files/error.jsp</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/database/ProductDAO.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/web/styles.css</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/customer/CustomerLogoutServlet.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/models/Order.java</file>
+            <file>file:/C:/Users/baffy%20kay/Documents/NetBeansProjects/OnlineShop/src/java/admin/AdminLoginServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
